@@ -1,1 +1,1 @@
-this is a script#
+grep processor /proc/cpuinfo | wc -l
